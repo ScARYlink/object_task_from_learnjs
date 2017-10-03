@@ -13,3 +13,9 @@ var schedule = {};
 alert( isEmpty(schedule) ); // true
 schedule["8:30"] = "подъём";
 alert( isEmpty(schedule) ); // false
+
+/*
+Есть объект salaries с зарплатами. Напишите код, который выведет сумму всех зарплат.
+Если объект пустой, то результат должен быть 0.
+ */
+
